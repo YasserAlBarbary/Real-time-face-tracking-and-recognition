@@ -1,0 +1,729 @@
+2019-08-07 09:27:42,042 - MOT - INFO - Start track and extract...... -  MainThread - 15960 
+2019-08-07 09:27:43,765 - MOT - INFO - All files:1_Hours Of _Harassment' In NYC!.mp4 -  MainThread - 15960 
+2019-08-07 09:27:43,767 - MOT - INFO - All files:2_Obama.mp4 -  MainThread - 15960 
+2019-08-07 09:27:43,768 - MOT - INFO - Video_name:videos\1_Hours Of _Harassment' In NYC!.mp4 -  MainThread - 15960 
+2019-08-07 09:27:46,189 - MOT - INFO - MTCNN detect face cost time : 0.173 s -  MainThread - 15960 
+2019-08-07 09:27:46,247 - MOT - INFO - MTCNN detect face cost time : 0.043 s -  MainThread - 15960 
+2019-08-07 09:27:46,304 - MOT - INFO - MTCNN detect face cost time : 0.048 s -  MainThread - 15960 
+2019-08-07 09:27:46,357 - MOT - INFO - MTCNN detect face cost time : 0.046 s -  MainThread - 15960 
+2019-08-07 09:27:46,407 - MOT - INFO - MTCNN detect face cost time : 0.043 s -  MainThread - 15960 
+2019-08-07 09:27:46,458 - MOT - INFO - MTCNN detect face cost time : 0.044 s -  MainThread - 15960 
+2019-08-07 09:27:46,621 - MOT - INFO - MTCNN detect face cost time : 0.157 s -  MainThread - 15960 
+2019-08-07 09:27:46,676 - MOT - INFO - MTCNN detect face cost time : 0.047 s -  MainThread - 15960 
+2019-08-07 09:27:46,722 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:46,778 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:27:46,834 - MOT - INFO - MTCNN detect face cost time : 0.048 s -  MainThread - 15960 
+2019-08-07 09:27:46,890 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:27:46,937 - MOT - INFO - MTCNN detect face cost time : 0.04 s -  MainThread - 15960 
+2019-08-07 09:27:46,982 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:47,026 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:47,069 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:47,113 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:47,159 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:47,206 - MOT - INFO - MTCNN detect face cost time : 0.04 s -  MainThread - 15960 
+2019-08-07 09:27:47,252 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:47,298 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:47,346 - MOT - INFO - MTCNN detect face cost time : 0.042 s -  MainThread - 15960 
+2019-08-07 09:27:47,390 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:47,438 - MOT - INFO - MTCNN detect face cost time : 0.04 s -  MainThread - 15960 
+2019-08-07 09:27:47,485 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:47,528 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:47,571 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:47,616 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:47,662 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:47,704 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:47,750 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:47,792 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:47,834 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:47,877 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:47,921 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:47,964 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:48,007 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:48,052 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:48,096 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:48,138 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:48,182 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:48,225 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:48,267 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:48,309 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:48,354 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:48,399 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:48,445 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:48,488 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:48,531 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:48,574 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:48,618 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:48,665 - MOT - INFO - MTCNN detect face cost time : 0.04 s -  MainThread - 15960 
+2019-08-07 09:27:48,708 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:48,756 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:48,800 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:48,843 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:48,887 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:48,931 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:48,977 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:49,020 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:49,063 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:49,107 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:49,149 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:49,191 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:49,235 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:49,281 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:49,333 - MOT - INFO - MTCNN detect face cost time : 0.044 s -  MainThread - 15960 
+2019-08-07 09:27:49,379 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:49,425 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:49,471 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:49,514 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:49,555 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:49,598 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:49,641 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:49,684 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:49,728 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:49,772 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:49,814 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:49,857 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:49,901 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:49,944 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:49,987 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:50,049 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:50,093 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:50,137 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:50,182 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:50,226 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:50,271 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:50,313 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:50,356 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:50,403 - MOT - INFO - MTCNN detect face cost time : 0.04 s -  MainThread - 15960 
+2019-08-07 09:27:50,447 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:50,489 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:50,529 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:27:50,572 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:50,614 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:50,656 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:50,699 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:50,741 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:50,785 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:50,835 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:50,878 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:50,923 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:50,968 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,012 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,056 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,101 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,147 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:51,192 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:51,236 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,280 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:51,323 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:51,365 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:51,409 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:51,453 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,498 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:51,541 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:51,585 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,634 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:51,679 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:51,723 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,767 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,811 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,855 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,898 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:51,943 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:51,987 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:52,031 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:52,073 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:52,116 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:52,157 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:27:52,201 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:52,244 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:52,291 - MOT - INFO - MTCNN detect face cost time : 0.04 s -  MainThread - 15960 
+2019-08-07 09:27:52,337 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:52,381 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:52,432 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:52,481 - MOT - INFO - MTCNN detect face cost time : 0.041 s -  MainThread - 15960 
+2019-08-07 09:27:52,531 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:52,575 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:52,619 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:27:52,662 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:52,705 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:27:52,751 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:52,793 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:27:52,840 - MOT - INFO - MTCNN detect face cost time : 0.04 s -  MainThread - 15960 
+2019-08-07 09:27:52,893 - MOT - INFO - MTCNN detect face cost time : 0.046 s -  MainThread - 15960 
+2019-08-07 09:27:52,944 - MOT - INFO - MTCNN detect face cost time : 0.044 s -  MainThread - 15960 
+2019-08-07 09:27:52,995 - MOT - INFO - MTCNN detect face cost time : 0.045 s -  MainThread - 15960 
+2019-08-07 09:27:53,048 - MOT - INFO - MTCNN detect face cost time : 0.046 s -  MainThread - 15960 
+2019-08-07 09:27:53,102 - MOT - INFO - MTCNN detect face cost time : 0.046 s -  MainThread - 15960 
+2019-08-07 09:27:53,158 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:27:53,220 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:27:53,279 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:27:53,339 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:27:53,410 - MOT - INFO - MTCNN detect face cost time : 0.064 s -  MainThread - 15960 
+2019-08-07 09:27:53,473 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:27:53,475 - MOT - INFO - new Tracker: 1 -  MainThread - 15960 
+2019-08-07 09:27:53,532 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:27:53,906 - MOT - INFO - MTCNN detect face cost time : 0.047 s -  MainThread - 15960 
+2019-08-07 09:27:53,966 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:27:54,028 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:27:54,093 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:27:54,158 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:27:54,223 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:27:54,286 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:27:54,350 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:27:54,417 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:27:54,478 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:27:54,537 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:27:54,593 - MOT - INFO - MTCNN detect face cost time : 0.046 s -  MainThread - 15960 
+2019-08-07 09:27:54,649 - MOT - INFO - MTCNN detect face cost time : 0.048 s -  MainThread - 15960 
+2019-08-07 09:27:54,711 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:27:54,772 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:27:54,835 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:27:54,909 - MOT - INFO - MTCNN detect face cost time : 0.065 s -  MainThread - 15960 
+2019-08-07 09:27:54,967 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:27:55,031 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:27:55,105 - MOT - INFO - MTCNN detect face cost time : 0.065 s -  MainThread - 15960 
+2019-08-07 09:27:55,173 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:27:55,243 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:27:55,308 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:27:55,372 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:27:55,435 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:27:55,505 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:27:55,569 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:27:55,643 - MOT - INFO - MTCNN detect face cost time : 0.065 s -  MainThread - 15960 
+2019-08-07 09:27:55,647 - MOT - INFO - remove tracker: 1 -  MainThread - 15960 
+2019-08-07 09:27:55,704 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:27:55,706 - MOT - INFO - new Tracker: 2 -  MainThread - 15960 
+2019-08-07 09:27:55,766 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:27:55,825 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:27:55,827 - MOT - INFO - remove tracker: 2 -  MainThread - 15960 
+2019-08-07 09:27:55,875 - MOT - INFO - MTCNN detect face cost time : 0.042 s -  MainThread - 15960 
+2019-08-07 09:27:55,930 - MOT - INFO - MTCNN detect face cost time : 0.048 s -  MainThread - 15960 
+2019-08-07 09:27:55,981 - MOT - INFO - MTCNN detect face cost time : 0.044 s -  MainThread - 15960 
+2019-08-07 09:27:56,031 - MOT - INFO - MTCNN detect face cost time : 0.043 s -  MainThread - 15960 
+2019-08-07 09:27:56,082 - MOT - INFO - MTCNN detect face cost time : 0.044 s -  MainThread - 15960 
+2019-08-07 09:27:56,129 - MOT - INFO - MTCNN detect face cost time : 0.041 s -  MainThread - 15960 
+2019-08-07 09:27:56,175 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:56,226 - MOT - INFO - MTCNN detect face cost time : 0.045 s -  MainThread - 15960 
+2019-08-07 09:27:56,274 - MOT - INFO - MTCNN detect face cost time : 0.041 s -  MainThread - 15960 
+2019-08-07 09:27:56,323 - MOT - INFO - MTCNN detect face cost time : 0.041 s -  MainThread - 15960 
+2019-08-07 09:27:56,375 - MOT - INFO - MTCNN detect face cost time : 0.045 s -  MainThread - 15960 
+2019-08-07 09:27:56,420 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:56,466 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:56,519 - MOT - INFO - MTCNN detect face cost time : 0.047 s -  MainThread - 15960 
+2019-08-07 09:27:56,565 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:56,611 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:56,656 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:27:56,704 - MOT - INFO - MTCNN detect face cost time : 0.04 s -  MainThread - 15960 
+2019-08-07 09:27:56,747 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:27:56,796 - MOT - INFO - MTCNN detect face cost time : 0.042 s -  MainThread - 15960 
+2019-08-07 09:27:56,847 - MOT - INFO - MTCNN detect face cost time : 0.044 s -  MainThread - 15960 
+2019-08-07 09:27:56,898 - MOT - INFO - MTCNN detect face cost time : 0.044 s -  MainThread - 15960 
+2019-08-07 09:27:56,947 - MOT - INFO - MTCNN detect face cost time : 0.041 s -  MainThread - 15960 
+2019-08-07 09:27:56,996 - MOT - INFO - MTCNN detect face cost time : 0.042 s -  MainThread - 15960 
+2019-08-07 09:27:57,045 - MOT - INFO - MTCNN detect face cost time : 0.042 s -  MainThread - 15960 
+2019-08-07 09:27:57,092 - MOT - INFO - MTCNN detect face cost time : 0.041 s -  MainThread - 15960 
+2019-08-07 09:27:57,139 - MOT - INFO - MTCNN detect face cost time : 0.04 s -  MainThread - 15960 
+2019-08-07 09:27:57,194 - MOT - INFO - MTCNN detect face cost time : 0.047 s -  MainThread - 15960 
+2019-08-07 09:27:57,241 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:27:57,290 - MOT - INFO - MTCNN detect face cost time : 0.042 s -  MainThread - 15960 
+2019-08-07 09:27:57,342 - MOT - INFO - MTCNN detect face cost time : 0.045 s -  MainThread - 15960 
+2019-08-07 09:27:57,393 - MOT - INFO - MTCNN detect face cost time : 0.044 s -  MainThread - 15960 
+2019-08-07 09:27:57,395 - MOT - INFO - new Tracker: 3 -  MainThread - 15960 
+2019-08-07 09:27:57,453 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:27:57,512 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:27:57,515 - MOT - INFO - new Tracker: 4 -  MainThread - 15960 
+2019-08-07 09:27:57,516 - MOT - INFO - remove tracker: 3 -  MainThread - 15960 
+2019-08-07 09:27:57,571 - MOT - INFO - MTCNN detect face cost time : 0.048 s -  MainThread - 15960 
+2019-08-07 09:27:57,573 - MOT - INFO - new Tracker: 5 -  MainThread - 15960 
+2019-08-07 09:27:57,574 - MOT - INFO - remove tracker: 4 -  MainThread - 15960 
+2019-08-07 09:27:57,630 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:27:57,682 - MOT - INFO - MTCNN detect face cost time : 0.044 s -  MainThread - 15960 
+2019-08-07 09:27:57,684 - MOT - INFO - remove tracker: 5 -  MainThread - 15960 
+2019-08-07 09:27:57,742 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:27:57,799 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:27:57,857 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:27:57,859 - MOT - INFO - new Tracker: 6 -  MainThread - 15960 
+2019-08-07 09:27:57,919 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:27:57,981 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:27:57,984 - MOT - INFO - new Tracker: 7 -  MainThread - 15960 
+2019-08-07 09:27:58,044 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:27:58,119 - MOT - INFO - MTCNN detect face cost time : 0.064 s -  MainThread - 15960 
+2019-08-07 09:27:58,123 - MOT - INFO - new Tracker: 8 -  MainThread - 15960 
+2019-08-07 09:27:58,124 - MOT - INFO - new Tracker: 9 -  MainThread - 15960 
+2019-08-07 09:27:58,191 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:27:58,194 - MOT - INFO - remove tracker: 8 -  MainThread - 15960 
+2019-08-07 09:27:58,270 - MOT - INFO - MTCNN detect face cost time : 0.067 s -  MainThread - 15960 
+2019-08-07 09:27:58,272 - MOT - INFO - remove tracker: 9 -  MainThread - 15960 
+2019-08-07 09:27:58,273 - MOT - INFO - remove tracker: 7 -  MainThread - 15960 
+2019-08-07 09:27:58,346 - MOT - INFO - MTCNN detect face cost time : 0.064 s -  MainThread - 15960 
+2019-08-07 09:27:58,422 - MOT - INFO - MTCNN detect face cost time : 0.068 s -  MainThread - 15960 
+2019-08-07 09:27:58,425 - MOT - INFO - new Tracker: 10 -  MainThread - 15960 
+2019-08-07 09:27:58,498 - MOT - INFO - MTCNN detect face cost time : 0.065 s -  MainThread - 15960 
+2019-08-07 09:27:58,501 - MOT - INFO - new Tracker: 11 -  MainThread - 15960 
+2019-08-07 09:27:58,573 - MOT - INFO - MTCNN detect face cost time : 0.064 s -  MainThread - 15960 
+2019-08-07 09:27:58,576 - MOT - INFO - new Tracker: 12 -  MainThread - 15960 
+2019-08-07 09:27:58,650 - MOT - INFO - MTCNN detect face cost time : 0.066 s -  MainThread - 15960 
+2019-08-07 09:27:58,653 - MOT - INFO - remove tracker: 12 -  MainThread - 15960 
+2019-08-07 09:27:58,727 - MOT - INFO - MTCNN detect face cost time : 0.066 s -  MainThread - 15960 
+2019-08-07 09:27:58,731 - MOT - INFO - new Tracker: 13 -  MainThread - 15960 
+2019-08-07 09:27:58,805 - MOT - INFO - MTCNN detect face cost time : 0.067 s -  MainThread - 15960 
+2019-08-07 09:27:58,809 - MOT - INFO - remove tracker: 13 -  MainThread - 15960 
+2019-08-07 09:27:58,883 - MOT - INFO - MTCNN detect face cost time : 0.064 s -  MainThread - 15960 
+2019-08-07 09:27:58,964 - MOT - INFO - MTCNN detect face cost time : 0.07 s -  MainThread - 15960 
+2019-08-07 09:27:59,049 - MOT - INFO - MTCNN detect face cost time : 0.074 s -  MainThread - 15960 
+2019-08-07 09:27:59,052 - MOT - INFO - new Tracker: 14 -  MainThread - 15960 
+2019-08-07 09:27:59,130 - MOT - INFO - MTCNN detect face cost time : 0.07 s -  MainThread - 15960 
+2019-08-07 09:27:59,217 - MOT - INFO - MTCNN detect face cost time : 0.076 s -  MainThread - 15960 
+2019-08-07 09:27:59,220 - MOT - INFO - remove tracker: 14 -  MainThread - 15960 
+2019-08-07 09:27:59,301 - MOT - INFO - MTCNN detect face cost time : 0.072 s -  MainThread - 15960 
+2019-08-07 09:27:59,304 - MOT - INFO - new Tracker: 15 -  MainThread - 15960 
+2019-08-07 09:27:59,386 - MOT - INFO - MTCNN detect face cost time : 0.072 s -  MainThread - 15960 
+2019-08-07 09:27:59,389 - MOT - INFO - remove tracker: 15 -  MainThread - 15960 
+2019-08-07 09:27:59,468 - MOT - INFO - MTCNN detect face cost time : 0.07 s -  MainThread - 15960 
+2019-08-07 09:27:59,547 - MOT - INFO - MTCNN detect face cost time : 0.069 s -  MainThread - 15960 
+2019-08-07 09:27:59,621 - MOT - INFO - MTCNN detect face cost time : 0.063 s -  MainThread - 15960 
+2019-08-07 09:27:59,624 - MOT - INFO - new Tracker: 16 -  MainThread - 15960 
+2019-08-07 09:27:59,700 - MOT - INFO - MTCNN detect face cost time : 0.067 s -  MainThread - 15960 
+2019-08-07 09:27:59,703 - MOT - INFO - remove tracker: 16 -  MainThread - 15960 
+2019-08-07 09:27:59,706 - MOT - INFO - remove tracker: 11 -  MainThread - 15960 
+2019-08-07 09:27:59,780 - MOT - INFO - MTCNN detect face cost time : 0.065 s -  MainThread - 15960 
+2019-08-07 09:27:59,784 - MOT - INFO - new Tracker: 17 -  MainThread - 15960 
+2019-08-07 09:27:59,857 - MOT - INFO - MTCNN detect face cost time : 0.065 s -  MainThread - 15960 
+2019-08-07 09:27:59,859 - MOT - INFO - new Tracker: 18 -  MainThread - 15960 
+2019-08-07 09:27:59,927 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:27:59,931 - MOT - INFO - remove tracker: 18 -  MainThread - 15960 
+2019-08-07 09:28:00,007 - MOT - INFO - MTCNN detect face cost time : 0.068 s -  MainThread - 15960 
+2019-08-07 09:28:00,082 - MOT - INFO - MTCNN detect face cost time : 0.063 s -  MainThread - 15960 
+2019-08-07 09:28:00,159 - MOT - INFO - MTCNN detect face cost time : 0.066 s -  MainThread - 15960 
+2019-08-07 09:28:00,234 - MOT - INFO - MTCNN detect face cost time : 0.064 s -  MainThread - 15960 
+2019-08-07 09:28:00,311 - MOT - INFO - MTCNN detect face cost time : 0.066 s -  MainThread - 15960 
+2019-08-07 09:28:00,387 - MOT - INFO - MTCNN detect face cost time : 0.064 s -  MainThread - 15960 
+2019-08-07 09:28:00,464 - MOT - INFO - MTCNN detect face cost time : 0.066 s -  MainThread - 15960 
+2019-08-07 09:28:00,540 - MOT - INFO - MTCNN detect face cost time : 0.065 s -  MainThread - 15960 
+2019-08-07 09:28:00,622 - MOT - INFO - MTCNN detect face cost time : 0.071 s -  MainThread - 15960 
+2019-08-07 09:28:00,697 - MOT - INFO - MTCNN detect face cost time : 0.063 s -  MainThread - 15960 
+2019-08-07 09:28:00,701 - MOT - INFO - new Tracker: 19 -  MainThread - 15960 
+2019-08-07 09:28:00,776 - MOT - INFO - MTCNN detect face cost time : 0.066 s -  MainThread - 15960 
+2019-08-07 09:28:00,857 - MOT - INFO - MTCNN detect face cost time : 0.069 s -  MainThread - 15960 
+2019-08-07 09:28:00,861 - MOT - INFO - remove tracker: 19 -  MainThread - 15960 
+2019-08-07 09:28:00,931 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:01,005 - MOT - INFO - MTCNN detect face cost time : 0.063 s -  MainThread - 15960 
+2019-08-07 09:28:01,009 - MOT - INFO - new Tracker: 20 -  MainThread - 15960 
+2019-08-07 09:28:01,080 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:01,083 - MOT - INFO - remove tracker: 20 -  MainThread - 15960 
+2019-08-07 09:28:01,151 - MOT - INFO - MTCNN detect face cost time : 0.059 s -  MainThread - 15960 
+2019-08-07 09:28:01,155 - MOT - INFO - remove tracker: 10 -  MainThread - 15960 
+2019-08-07 09:28:01,158 - MOT - INFO - remove tracker: 6 -  MainThread - 15960 
+2019-08-07 09:28:01,213 - MOT - INFO - MTCNN detect face cost time : 0.048 s -  MainThread - 15960 
+2019-08-07 09:28:01,265 - MOT - INFO - MTCNN detect face cost time : 0.043 s -  MainThread - 15960 
+2019-08-07 09:28:01,269 - MOT - INFO - remove tracker: 17 -  MainThread - 15960 
+2019-08-07 09:28:01,315 - MOT - INFO - MTCNN detect face cost time : 0.038 s -  MainThread - 15960 
+2019-08-07 09:28:01,355 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:28:01,395 - MOT - INFO - MTCNN detect face cost time : 0.033 s -  MainThread - 15960 
+2019-08-07 09:28:01,432 - MOT - INFO - MTCNN detect face cost time : 0.03 s -  MainThread - 15960 
+2019-08-07 09:28:01,469 - MOT - INFO - MTCNN detect face cost time : 0.03 s -  MainThread - 15960 
+2019-08-07 09:28:01,509 - MOT - INFO - MTCNN detect face cost time : 0.033 s -  MainThread - 15960 
+2019-08-07 09:28:01,549 - MOT - INFO - MTCNN detect face cost time : 0.033 s -  MainThread - 15960 
+2019-08-07 09:28:01,590 - MOT - INFO - MTCNN detect face cost time : 0.033 s -  MainThread - 15960 
+2019-08-07 09:28:01,634 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:28:01,674 - MOT - INFO - MTCNN detect face cost time : 0.033 s -  MainThread - 15960 
+2019-08-07 09:28:01,718 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:28:01,761 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:28:01,805 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:28:01,847 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:01,888 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:28:01,934 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:28:01,973 - MOT - INFO - MTCNN detect face cost time : 0.032 s -  MainThread - 15960 
+2019-08-07 09:28:02,031 - MOT - INFO - MTCNN detect face cost time : 0.031 s -  MainThread - 15960 
+2019-08-07 09:28:02,072 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:28:02,111 - MOT - INFO - MTCNN detect face cost time : 0.031 s -  MainThread - 15960 
+2019-08-07 09:28:02,147 - MOT - INFO - MTCNN detect face cost time : 0.029 s -  MainThread - 15960 
+2019-08-07 09:28:02,187 - MOT - INFO - MTCNN detect face cost time : 0.033 s -  MainThread - 15960 
+2019-08-07 09:28:02,224 - MOT - INFO - MTCNN detect face cost time : 0.03 s -  MainThread - 15960 
+2019-08-07 09:28:02,264 - MOT - INFO - MTCNN detect face cost time : 0.033 s -  MainThread - 15960 
+2019-08-07 09:28:02,307 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:28:02,349 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:02,390 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:28:02,433 - MOT - INFO - MTCNN detect face cost time : 0.033 s -  MainThread - 15960 
+2019-08-07 09:28:02,474 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:28:02,514 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:28:02,555 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:28:02,597 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:02,637 - MOT - INFO - MTCNN detect face cost time : 0.033 s -  MainThread - 15960 
+2019-08-07 09:28:02,685 - MOT - INFO - MTCNN detect face cost time : 0.041 s -  MainThread - 15960 
+2019-08-07 09:28:02,731 - MOT - INFO - MTCNN detect face cost time : 0.039 s -  MainThread - 15960 
+2019-08-07 09:28:02,774 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:28:02,835 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:02,873 - MOT - INFO - MTCNN detect face cost time : 0.032 s -  MainThread - 15960 
+2019-08-07 09:28:02,912 - MOT - INFO - MTCNN detect face cost time : 0.032 s -  MainThread - 15960 
+2019-08-07 09:28:02,953 - MOT - INFO - MTCNN detect face cost time : 0.034 s -  MainThread - 15960 
+2019-08-07 09:28:02,992 - MOT - INFO - MTCNN detect face cost time : 0.032 s -  MainThread - 15960 
+2019-08-07 09:28:03,031 - MOT - INFO - MTCNN detect face cost time : 0.032 s -  MainThread - 15960 
+2019-08-07 09:28:03,075 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:03,117 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:03,159 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:03,202 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:28:03,244 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:28:03,288 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:28:03,333 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:28:03,375 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:03,419 - MOT - INFO - MTCNN detect face cost time : 0.037 s -  MainThread - 15960 
+2019-08-07 09:28:03,461 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:03,504 - MOT - INFO - MTCNN detect face cost time : 0.036 s -  MainThread - 15960 
+2019-08-07 09:28:03,546 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:03,588 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:03,635 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:03,685 - MOT - INFO - MTCNN detect face cost time : 0.043 s -  MainThread - 15960 
+2019-08-07 09:28:03,741 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:28:03,797 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:28:03,849 - MOT - INFO - MTCNN detect face cost time : 0.045 s -  MainThread - 15960 
+2019-08-07 09:28:03,851 - MOT - INFO - new Tracker: 21 -  MainThread - 15960 
+2019-08-07 09:28:03,908 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:28:03,972 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:04,037 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:04,110 - MOT - INFO - MTCNN detect face cost time : 0.063 s -  MainThread - 15960 
+2019-08-07 09:28:04,179 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:04,182 - MOT - INFO - new Tracker: 22 -  MainThread - 15960 
+2019-08-07 09:28:04,184 - MOT - INFO - remove tracker: 21 -  MainThread - 15960 
+2019-08-07 09:28:04,245 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:04,247 - MOT - INFO - remove tracker: 22 -  MainThread - 15960 
+2019-08-07 09:28:04,318 - MOT - INFO - MTCNN detect face cost time : 0.065 s -  MainThread - 15960 
+2019-08-07 09:28:04,383 - MOT - INFO - MTCNN detect face cost time : 0.059 s -  MainThread - 15960 
+2019-08-07 09:28:04,453 - MOT - INFO - MTCNN detect face cost time : 0.063 s -  MainThread - 15960 
+2019-08-07 09:28:04,455 - MOT - INFO - new Tracker: 23 -  MainThread - 15960 
+2019-08-07 09:28:04,457 - MOT - INFO - new Tracker: 24 -  MainThread - 15960 
+2019-08-07 09:28:04,458 - MOT - INFO - new Tracker: 25 -  MainThread - 15960 
+2019-08-07 09:28:04,525 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:04,527 - MOT - INFO - remove tracker: 25 -  MainThread - 15960 
+2019-08-07 09:28:04,528 - MOT - INFO - remove tracker: 24 -  MainThread - 15960 
+2019-08-07 09:28:04,529 - MOT - INFO - remove tracker: 23 -  MainThread - 15960 
+2019-08-07 09:28:04,601 - MOT - INFO - MTCNN detect face cost time : 0.065 s -  MainThread - 15960 
+2019-08-07 09:28:04,662 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:04,725 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:04,804 - MOT - INFO - MTCNN detect face cost time : 0.072 s -  MainThread - 15960 
+2019-08-07 09:28:04,806 - MOT - INFO - new Tracker: 26 -  MainThread - 15960 
+2019-08-07 09:28:04,807 - MOT - INFO - new Tracker: 27 -  MainThread - 15960 
+2019-08-07 09:28:04,870 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:04,935 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:05,007 - MOT - INFO - MTCNN detect face cost time : 0.063 s -  MainThread - 15960 
+2019-08-07 09:28:05,069 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:05,133 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:05,136 - MOT - INFO - remove tracker: 27 -  MainThread - 15960 
+2019-08-07 09:28:05,138 - MOT - INFO - remove tracker: 26 -  MainThread - 15960 
+2019-08-07 09:28:05,210 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:05,280 - MOT - INFO - MTCNN detect face cost time : 0.063 s -  MainThread - 15960 
+2019-08-07 09:28:05,282 - MOT - INFO - new Tracker: 28 -  MainThread - 15960 
+2019-08-07 09:28:05,283 - MOT - INFO - new Tracker: 29 -  MainThread - 15960 
+2019-08-07 09:28:05,284 - MOT - INFO - new Tracker: 30 -  MainThread - 15960 
+2019-08-07 09:28:05,360 - MOT - INFO - MTCNN detect face cost time : 0.07 s -  MainThread - 15960 
+2019-08-07 09:28:05,362 - MOT - INFO - remove tracker: 30 -  MainThread - 15960 
+2019-08-07 09:28:05,363 - MOT - INFO - remove tracker: 29 -  MainThread - 15960 
+2019-08-07 09:28:05,364 - MOT - INFO - remove tracker: 28 -  MainThread - 15960 
+2019-08-07 09:28:05,431 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:05,433 - MOT - INFO - new Tracker: 31 -  MainThread - 15960 
+2019-08-07 09:28:05,434 - MOT - INFO - new Tracker: 32 -  MainThread - 15960 
+2019-08-07 09:28:05,502 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:05,504 - MOT - INFO - remove tracker: 32 -  MainThread - 15960 
+2019-08-07 09:28:05,505 - MOT - INFO - remove tracker: 31 -  MainThread - 15960 
+2019-08-07 09:28:05,566 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:05,567 - MOT - INFO - new Tracker: 33 -  MainThread - 15960 
+2019-08-07 09:28:05,631 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:05,632 - MOT - INFO - remove tracker: 33 -  MainThread - 15960 
+2019-08-07 09:28:05,699 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:05,700 - MOT - INFO - new Tracker: 34 -  MainThread - 15960 
+2019-08-07 09:28:05,768 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:05,833 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:05,835 - MOT - INFO - new Tracker: 35 -  MainThread - 15960 
+2019-08-07 09:28:05,836 - MOT - INFO - new Tracker: 36 -  MainThread - 15960 
+2019-08-07 09:28:05,837 - MOT - INFO - remove tracker: 34 -  MainThread - 15960 
+2019-08-07 09:28:05,900 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:05,903 - MOT - INFO - new Tracker: 37 -  MainThread - 15960 
+2019-08-07 09:28:05,904 - MOT - INFO - remove tracker: 36 -  MainThread - 15960 
+2019-08-07 09:28:05,905 - MOT - INFO - remove tracker: 35 -  MainThread - 15960 
+2019-08-07 09:28:05,970 - MOT - INFO - MTCNN detect face cost time : 0.059 s -  MainThread - 15960 
+2019-08-07 09:28:06,039 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:06,108 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:06,166 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:28:06,229 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:06,295 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:06,299 - MOT - INFO - new Tracker: 38 -  MainThread - 15960 
+2019-08-07 09:28:06,364 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:06,365 - MOT - INFO - remove tracker: 38 -  MainThread - 15960 
+2019-08-07 09:28:06,369 - MOT - INFO - remove tracker: 37 -  MainThread - 15960 
+2019-08-07 09:28:06,444 - MOT - INFO - MTCNN detect face cost time : 0.069 s -  MainThread - 15960 
+2019-08-07 09:28:06,446 - MOT - INFO - new Tracker: 39 -  MainThread - 15960 
+2019-08-07 09:28:06,513 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:06,516 - MOT - INFO - new Tracker: 40 -  MainThread - 15960 
+2019-08-07 09:28:06,576 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:06,579 - MOT - INFO - remove tracker: 40 -  MainThread - 15960 
+2019-08-07 09:28:06,645 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:06,713 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:06,716 - MOT - INFO - new Tracker: 41 -  MainThread - 15960 
+2019-08-07 09:28:06,777 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:28:06,845 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:06,846 - MOT - INFO - remove tracker: 41 -  MainThread - 15960 
+2019-08-07 09:28:06,849 - MOT - INFO - remove tracker: 39 -  MainThread - 15960 
+2019-08-07 09:28:06,913 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:06,915 - MOT - INFO - new Tracker: 42 -  MainThread - 15960 
+2019-08-07 09:28:06,975 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:28:07,039 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:07,102 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:07,169 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:07,233 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:07,294 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:28:07,358 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:07,423 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:07,488 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:28:07,549 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:07,605 - MOT - INFO - MTCNN detect face cost time : 0.047 s -  MainThread - 15960 
+2019-08-07 09:28:07,666 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:07,725 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:07,785 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:07,848 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:28:07,915 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:07,980 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:28:08,040 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:08,111 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:08,114 - MOT - INFO - remove tracker: 42 -  MainThread - 15960 
+2019-08-07 09:28:08,177 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:08,245 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:08,319 - MOT - INFO - MTCNN detect face cost time : 0.066 s -  MainThread - 15960 
+2019-08-07 09:28:08,321 - MOT - INFO - new Tracker: 43 -  MainThread - 15960 
+2019-08-07 09:28:08,393 - MOT - INFO - MTCNN detect face cost time : 0.065 s -  MainThread - 15960 
+2019-08-07 09:28:08,396 - MOT - INFO - new Tracker: 44 -  MainThread - 15960 
+2019-08-07 09:28:08,397 - MOT - INFO - new Tracker: 45 -  MainThread - 15960 
+2019-08-07 09:28:08,466 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:08,469 - MOT - INFO - remove tracker: 45 -  MainThread - 15960 
+2019-08-07 09:28:08,470 - MOT - INFO - remove tracker: 43 -  MainThread - 15960 
+2019-08-07 09:28:08,537 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:08,539 - MOT - INFO - new Tracker: 46 -  MainThread - 15960 
+2019-08-07 09:28:08,540 - MOT - INFO - remove tracker: 44 -  MainThread - 15960 
+2019-08-07 09:28:08,601 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:08,665 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:08,668 - MOT - INFO - new Tracker: 47 -  MainThread - 15960 
+2019-08-07 09:28:08,730 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:08,799 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:08,864 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:28:08,928 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:08,931 - MOT - INFO - remove tracker: 47 -  MainThread - 15960 
+2019-08-07 09:28:08,994 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:28:08,997 - MOT - INFO - new Tracker: 48 -  MainThread - 15960 
+2019-08-07 09:28:08,999 - MOT - INFO - remove tracker: 46 -  MainThread - 15960 
+2019-08-07 09:28:09,067 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:09,070 - MOT - INFO - new Tracker: 49 -  MainThread - 15960 
+2019-08-07 09:28:09,071 - MOT - INFO - remove tracker: 48 -  MainThread - 15960 
+2019-08-07 09:28:09,139 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:09,142 - MOT - INFO - new Tracker: 50 -  MainThread - 15960 
+2019-08-07 09:28:09,210 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:09,214 - MOT - INFO - new Tracker: 51 -  MainThread - 15960 
+2019-08-07 09:28:09,281 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:09,283 - MOT - INFO - remove tracker: 51 -  MainThread - 15960 
+2019-08-07 09:28:09,284 - MOT - INFO - remove tracker: 50 -  MainThread - 15960 
+2019-08-07 09:28:09,285 - MOT - INFO - remove tracker: 49 -  MainThread - 15960 
+2019-08-07 09:28:09,361 - MOT - INFO - MTCNN detect face cost time : 0.069 s -  MainThread - 15960 
+2019-08-07 09:28:09,428 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:09,430 - MOT - INFO - new Tracker: 52 -  MainThread - 15960 
+2019-08-07 09:28:09,498 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:09,499 - MOT - INFO - remove tracker: 52 -  MainThread - 15960 
+2019-08-07 09:28:09,573 - MOT - INFO - MTCNN detect face cost time : 0.067 s -  MainThread - 15960 
+2019-08-07 09:28:09,574 - MOT - INFO - new Tracker: 53 -  MainThread - 15960 
+2019-08-07 09:28:09,644 - MOT - INFO - MTCNN detect face cost time : 0.064 s -  MainThread - 15960 
+2019-08-07 09:28:09,708 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:09,711 - MOT - INFO - new Tracker: 54 -  MainThread - 15960 
+2019-08-07 09:28:09,776 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:09,778 - MOT - INFO - remove tracker: 53 -  MainThread - 15960 
+2019-08-07 09:28:09,845 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:09,848 - MOT - INFO - new Tracker: 55 -  MainThread - 15960 
+2019-08-07 09:28:09,911 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:09,983 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:09,986 - MOT - INFO - new Tracker: 56 -  MainThread - 15960 
+2019-08-07 09:28:10,054 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:10,057 - MOT - INFO - remove tracker: 56 -  MainThread - 15960 
+2019-08-07 09:28:10,058 - MOT - INFO - remove tracker: 55 -  MainThread - 15960 
+2019-08-07 09:28:10,120 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:10,123 - MOT - INFO - new Tracker: 57 -  MainThread - 15960 
+2019-08-07 09:28:10,189 - MOT - INFO - MTCNN detect face cost time : 0.059 s -  MainThread - 15960 
+2019-08-07 09:28:10,192 - MOT - INFO - new Tracker: 58 -  MainThread - 15960 
+2019-08-07 09:28:10,193 - MOT - INFO - remove tracker: 57 -  MainThread - 15960 
+2019-08-07 09:28:10,195 - MOT - INFO - remove tracker: 54 -  MainThread - 15960 
+2019-08-07 09:28:10,253 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:28:10,255 - MOT - INFO - remove tracker: 58 -  MainThread - 15960 
+2019-08-07 09:28:10,322 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:10,324 - MOT - INFO - new Tracker: 59 -  MainThread - 15960 
+2019-08-07 09:28:10,387 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:10,390 - MOT - INFO - new Tracker: 60 -  MainThread - 15960 
+2019-08-07 09:28:10,451 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:10,520 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:10,583 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:28:10,586 - MOT - INFO - remove tracker: 60 -  MainThread - 15960 
+2019-08-07 09:28:10,645 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:28:10,648 - MOT - INFO - remove tracker: 59 -  MainThread - 15960 
+2019-08-07 09:28:10,708 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:10,710 - MOT - INFO - new Tracker: 61 -  MainThread - 15960 
+2019-08-07 09:28:10,711 - MOT - INFO - new Tracker: 62 -  MainThread - 15960 
+2019-08-07 09:28:10,769 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:10,835 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:10,838 - MOT - INFO - new Tracker: 63 -  MainThread - 15960 
+2019-08-07 09:28:10,839 - MOT - INFO - remove tracker: 61 -  MainThread - 15960 
+2019-08-07 09:28:10,899 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:28:10,966 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:10,970 - MOT - INFO - new Tracker: 64 -  MainThread - 15960 
+2019-08-07 09:28:10,971 - MOT - INFO - remove tracker: 63 -  MainThread - 15960 
+2019-08-07 09:28:11,040 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:11,111 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:11,113 - MOT - INFO - remove tracker: 64 -  MainThread - 15960 
+2019-08-07 09:28:11,176 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:11,244 - MOT - INFO - MTCNN detect face cost time : 0.059 s -  MainThread - 15960 
+2019-08-07 09:28:11,247 - MOT - INFO - new Tracker: 65 -  MainThread - 15960 
+2019-08-07 09:28:11,313 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:11,316 - MOT - INFO - new Tracker: 66 -  MainThread - 15960 
+2019-08-07 09:28:11,317 - MOT - INFO - remove tracker: 65 -  MainThread - 15960 
+2019-08-07 09:28:11,380 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:11,443 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:28:11,446 - MOT - INFO - remove tracker: 66 -  MainThread - 15960 
+2019-08-07 09:28:11,524 - MOT - INFO - MTCNN detect face cost time : 0.07 s -  MainThread - 15960 
+2019-08-07 09:28:11,526 - MOT - INFO - new Tracker: 67 -  MainThread - 15960 
+2019-08-07 09:28:11,591 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:11,593 - MOT - INFO - remove tracker: 67 -  MainThread - 15960 
+2019-08-07 09:28:11,659 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:11,724 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:11,788 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:28:11,791 - MOT - INFO - new Tracker: 68 -  MainThread - 15960 
+2019-08-07 09:28:11,858 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:11,928 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:12,001 - MOT - INFO - MTCNN detect face cost time : 0.063 s -  MainThread - 15960 
+2019-08-07 09:28:12,078 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:12,146 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:12,215 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:12,219 - MOT - INFO - remove tracker: 68 -  MainThread - 15960 
+2019-08-07 09:28:12,280 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:12,340 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:28:12,406 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:12,410 - MOT - INFO - new Tracker: 69 -  MainThread - 15960 
+2019-08-07 09:28:12,469 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:12,532 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:12,535 - MOT - INFO - remove tracker: 69 -  MainThread - 15960 
+2019-08-07 09:28:12,597 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:12,600 - MOT - INFO - new Tracker: 70 -  MainThread - 15960 
+2019-08-07 09:28:12,663 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:12,732 - MOT - INFO - MTCNN detect face cost time : 0.059 s -  MainThread - 15960 
+2019-08-07 09:28:12,799 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:12,802 - MOT - INFO - new Tracker: 71 -  MainThread - 15960 
+2019-08-07 09:28:12,803 - MOT - INFO - remove tracker: 70 -  MainThread - 15960 
+2019-08-07 09:28:12,871 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:12,874 - MOT - INFO - remove tracker: 71 -  MainThread - 15960 
+2019-08-07 09:28:12,945 - MOT - INFO - MTCNN detect face cost time : 0.064 s -  MainThread - 15960 
+2019-08-07 09:28:13,011 - MOT - INFO - MTCNN detect face cost time : 0.059 s -  MainThread - 15960 
+2019-08-07 09:28:13,070 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:13,129 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:13,197 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:13,266 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:13,325 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:13,396 - MOT - INFO - MTCNN detect face cost time : 0.062 s -  MainThread - 15960 
+2019-08-07 09:28:13,458 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:28:13,527 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:13,595 - MOT - INFO - MTCNN detect face cost time : 0.059 s -  MainThread - 15960 
+2019-08-07 09:28:13,659 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:28:13,722 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:13,783 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:13,849 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:13,854 - MOT - INFO - remove tracker: 62 -  MainThread - 15960 
+2019-08-07 09:28:13,918 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:13,920 - MOT - INFO - new Tracker: 72 -  MainThread - 15960 
+2019-08-07 09:28:13,974 - MOT - INFO - MTCNN detect face cost time : 0.047 s -  MainThread - 15960 
+2019-08-07 09:28:13,976 - MOT - INFO - remove tracker: 72 -  MainThread - 15960 
+2019-08-07 09:28:14,039 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:14,041 - MOT - INFO - new Tracker: 73 -  MainThread - 15960 
+2019-08-07 09:28:14,098 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:28:14,161 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:28:14,230 - MOT - INFO - MTCNN detect face cost time : 0.061 s -  MainThread - 15960 
+2019-08-07 09:28:14,293 - MOT - INFO - MTCNN detect face cost time : 0.053 s -  MainThread - 15960 
+2019-08-07 09:28:14,296 - MOT - INFO - new Tracker: 74 -  MainThread - 15960 
+2019-08-07 09:28:14,356 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:14,359 - MOT - INFO - remove tracker: 74 -  MainThread - 15960 
+2019-08-07 09:28:14,412 - MOT - INFO - MTCNN detect face cost time : 0.046 s -  MainThread - 15960 
+2019-08-07 09:28:14,470 - MOT - INFO - MTCNN detect face cost time : 0.048 s -  MainThread - 15960 
+2019-08-07 09:28:14,473 - MOT - INFO - remove tracker: 73 -  MainThread - 15960 
+2019-08-07 09:28:14,531 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:14,533 - MOT - INFO - new Tracker: 75 -  MainThread - 15960 
+2019-08-07 09:28:14,588 - MOT - INFO - MTCNN detect face cost time : 0.048 s -  MainThread - 15960 
+2019-08-07 09:28:14,648 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:28:14,707 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:14,766 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:14,829 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:14,832 - MOT - INFO - new Tracker: 76 -  MainThread - 15960 
+2019-08-07 09:28:14,894 - MOT - INFO - MTCNN detect face cost time : 0.056 s -  MainThread - 15960 
+2019-08-07 09:28:14,898 - MOT - INFO - new Tracker: 77 -  MainThread - 15960 
+2019-08-07 09:28:14,899 - MOT - INFO - remove tracker: 76 -  MainThread - 15960 
+2019-08-07 09:28:14,961 - MOT - INFO - MTCNN detect face cost time : 0.054 s -  MainThread - 15960 
+2019-08-07 09:28:15,020 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:28:15,022 - MOT - INFO - remove tracker: 77 -  MainThread - 15960 
+2019-08-07 09:28:15,024 - MOT - INFO - remove tracker: 75 -  MainThread - 15960 
+2019-08-07 09:28:15,079 - MOT - INFO - MTCNN detect face cost time : 0.048 s -  MainThread - 15960 
+2019-08-07 09:28:15,144 - MOT - INFO - MTCNN detect face cost time : 0.058 s -  MainThread - 15960 
+2019-08-07 09:28:15,201 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:15,245 - MOT - INFO - MTCNN detect face cost time : 0.035 s -  MainThread - 15960 
+2019-08-07 09:28:15,303 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:15,358 - MOT - INFO - MTCNN detect face cost time : 0.048 s -  MainThread - 15960 
+2019-08-07 09:28:15,417 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:15,473 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:28:15,531 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:15,587 - MOT - INFO - MTCNN detect face cost time : 0.049 s -  MainThread - 15960 
+2019-08-07 09:28:15,589 - MOT - INFO - new Tracker: 78 -  MainThread - 15960 
+2019-08-07 09:28:15,651 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:15,653 - MOT - INFO - remove tracker: 78 -  MainThread - 15960 
+2019-08-07 09:28:15,704 - MOT - INFO - MTCNN detect face cost time : 0.045 s -  MainThread - 15960 
+2019-08-07 09:28:15,706 - MOT - INFO - new Tracker: 79 -  MainThread - 15960 
+2019-08-07 09:28:15,763 - MOT - INFO - MTCNN detect face cost time : 0.05 s -  MainThread - 15960 
+2019-08-07 09:28:15,766 - MOT - INFO - new Tracker: 80 -  MainThread - 15960 
+2019-08-07 09:28:15,767 - MOT - INFO - remove tracker: 79 -  MainThread - 15960 
+2019-08-07 09:28:15,828 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:28:15,829 - MOT - INFO - remove tracker: 80 -  MainThread - 15960 
+2019-08-07 09:28:15,891 - MOT - INFO - MTCNN detect face cost time : 0.055 s -  MainThread - 15960 
+2019-08-07 09:28:15,893 - MOT - INFO - new Tracker: 81 -  MainThread - 15960 
+2019-08-07 09:28:15,960 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 15960 
+2019-08-07 09:28:16,020 - MOT - INFO - MTCNN detect face cost time : 0.052 s -  MainThread - 15960 
+2019-08-07 09:28:16,023 - MOT - INFO - new Tracker: 82 -  MainThread - 15960 
+2019-08-07 09:28:16,087 - MOT - INFO - MTCNN detect face cost time : 0.057 s -  MainThread - 15960 
+2019-08-07 09:28:16,090 - MOT - INFO - new Tracker: 83 -  MainThread - 15960 
+2019-08-07 09:28:16,092 - MOT - INFO - remove tracker: 82 -  MainThread - 15960 
+2019-08-07 09:28:16,164 - MOT - INFO - MTCNN detect face cost time : 0.064 s -  MainThread - 15960 
+2019-08-07 09:28:16,166 - MOT - INFO - new Tracker: 84 -  MainThread - 15960 
+2019-08-07 09:28:16,167 - MOT - INFO - remove tracker: 81 -  MainThread - 15960 
+2019-08-07 09:28:16,243 - MOT - INFO - MTCNN detect face cost time : 0.069 s -  MainThread - 15960 
+2019-08-07 09:28:16,246 - MOT - INFO - new Tracker: 85 -  MainThread - 15960 
+2019-08-07 09:28:16,323 - MOT - INFO - MTCNN detect face cost time : 0.07 s -  MainThread - 15960 
+2019-08-07 09:28:16,401 - MOT - INFO - MTCNN detect face cost time : 0.069 s -  MainThread - 15960 
+2019-08-07 09:28:16,404 - MOT - INFO - new Tracker: 86 -  MainThread - 15960 
+2019-08-07 09:28:16,487 - MOT - INFO - MTCNN detect face cost time : 0.075 s -  MainThread - 15960 
+2019-08-07 09:28:16,491 - MOT - INFO - remove tracker: 86 -  MainThread - 15960 
+2019-08-07 09:28:16,575 - MOT - INFO - MTCNN detect face cost time : 0.075 s -  MainThread - 15960 
+2019-08-07 09:28:16,660 - MOT - INFO - MTCNN detect face cost time : 0.073 s -  MainThread - 15960 
+2019-08-07 09:28:16,748 - MOT - INFO - MTCNN detect face cost time : 0.078 s -  MainThread - 15960 
+2019-08-07 09:28:16,751 - MOT - INFO - new Tracker: 87 -  MainThread - 15960 
+2019-08-07 09:28:16,829 - MOT - INFO - MTCNN detect face cost time : 0.069 s -  MainThread - 15960 
+2019-08-07 09:28:16,923 - MOT - INFO - MTCNN detect face cost time : 0.082 s -  MainThread - 15960 
+2019-08-07 09:28:16,926 - MOT - INFO - remove tracker: 87 -  MainThread - 15960 
+2019-08-07 09:28:17,012 - MOT - INFO - MTCNN detect face cost time : 0.077 s -  MainThread - 15960 
+2019-08-07 09:28:17,016 - MOT - INFO - new Tracker: 88 -  MainThread - 15960 
+2019-08-07 09:28:17,110 - MOT - INFO - MTCNN detect face cost time : 0.084 s -  MainThread - 15960 
+2019-08-07 09:28:17,198 - MOT - INFO - MTCNN detect face cost time : 0.076 s -  MainThread - 15960 
+2019-08-07 09:28:17,287 - MOT - INFO - MTCNN detect face cost time : 0.077 s -  MainThread - 15960 
+2019-08-07 09:28:17,384 - MOT - INFO - MTCNN detect face cost time : 0.084 s -  MainThread - 15960 
+2019-08-07 09:28:17,388 - MOT - INFO - remove tracker: 88 -  MainThread - 15960 
+2019-08-07 09:28:17,484 - MOT - INFO - MTCNN detect face cost time : 0.087 s -  MainThread - 15960 
+2019-08-07 09:28:17,488 - MOT - INFO - new Tracker: 89 -  MainThread - 15960 
+2019-08-07 09:28:17,562 - MOT - INFO - MTCNN detect face cost time : 0.066 s -  MainThread - 15960 
+2019-08-07 09:28:17,653 - MOT - INFO - MTCNN detect face cost time : 0.079 s -  MainThread - 15960 
+2019-08-07 09:28:17,742 - MOT - INFO - MTCNN detect face cost time : 0.077 s -  MainThread - 15960 
+2019-08-07 09:28:17,833 - MOT - INFO - MTCNN detect face cost time : 0.079 s -  MainThread - 15960 
+2019-08-07 09:28:17,922 - MOT - INFO - MTCNN detect face cost time : 0.078 s -  MainThread - 15960 
+2019-08-07 09:28:18,009 - MOT - INFO - MTCNN detect face cost time : 0.073 s -  MainThread - 15960 
+2019-08-07 09:28:18,013 - MOT - INFO - remove tracker: 89 -  MainThread - 15960 
+2019-08-07 09:28:18,098 - MOT - INFO - MTCNN detect face cost time : 0.076 s -  MainThread - 15960 
+2019-08-07 09:28:18,195 - MOT - INFO - MTCNN detect face cost time : 0.086 s -  MainThread - 15960 
+2019-08-07 09:28:18,198 - MOT - INFO - new Tracker: 90 -  MainThread - 15960 
+2019-08-07 09:28:18,203 - MOT - INFO - Video_name:videos\2_Obama.mp4 -  MainThread - 15960 
+2019-08-07 09:28:19,981 - MOT - INFO - MTCNN detect face cost time : 0.051 s -  MainThread - 15960 
+2019-08-07 09:28:19,985 - MOT - INFO - new Tracker: 91 -  MainThread - 15960 
+2019-08-07 09:28:19,987 - MOT - INFO - remove tracker: 85 -  MainThread - 15960 
+2019-08-07 09:29:06,678 - MOT - INFO - Start track and extract...... -  MainThread - 15960 

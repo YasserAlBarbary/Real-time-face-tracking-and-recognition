@@ -1,0 +1,11 @@
+2019-08-06 11:01:16,511 - MOT - INFO - Start track and extract...... -  MainThread - 11832 
+2019-08-06 11:01:18,136 - MOT - INFO - All files:1_Hours Of _Harassment' In NYC!.mp4 -  MainThread - 11832 
+2019-08-06 11:01:18,136 - MOT - INFO - All files:2_Obama.mp4 -  MainThread - 11832 
+2019-08-06 11:01:18,138 - MOT - INFO - Video_name:videos\1_Hours Of _Harassment' In NYC!.mp4 -  MainThread - 11832 
+2019-08-06 11:01:20,800 - MOT - INFO - MTCNN detect face cost time : 0.283 s -  MainThread - 11832 
+2019-08-06 11:01:20,802 - MOT - INFO - new Tracker: 1 -  MainThread - 11832 
+2019-08-06 11:01:20,819 - MOT - WARNING - ret false -  MainThread - 11832 
+2019-08-06 11:01:20,822 - MOT - INFO - Video_name:videos\2_Obama.mp4 -  MainThread - 11832 
+2019-08-06 11:01:22,692 - MOT - INFO - MTCNN detect face cost time : 0.06 s -  MainThread - 11832 
+2019-08-06 11:01:23,028 - MOT - WARNING - ret false -  MainThread - 11832 
+2019-08-06 11:03:12,099 - MOT - INFO - Start track and extract...... -  MainThread - 11832 
