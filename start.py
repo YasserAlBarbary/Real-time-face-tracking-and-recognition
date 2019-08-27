@@ -26,7 +26,7 @@ logger = Logger()
 def main():
     global colours, img_size
     args = parse_args()
-    videos_dir = args.videos_dir
+#    videos_dir = args.videos_dir
     output_path = args.output_path
     no_display = args.no_display
     detect_interval = args.detect_interval  # you need to keep a balance between performance and fluency
@@ -53,19 +53,21 @@ def main():
             threshold = [0.6, 0.7, 0.7]  # three steps's threshold
             factor = 0.709  # scale factor
 
-            for filename in os.listdir(videos_dir):
-                logger.info('All files:{}'.format(filename))
-            for filename in os.listdir(videos_dir):
-                suffix = filename.split('.')[1]
-                if suffix != 'mp4' and suffix != 'avi':  # you can specify more video formats if you need
-                    continue
-                video_name = os.path.join(videos_dir, filename)
-                directoryname = os.path.join(output_path, filename.split('.')[0])
-                logger.info('Video_name:{}'.format(video_name))
-                cam = cv2.VideoCapture(0) #video_name --> 0 indicating feed from camera
+#            for filename in os.listdir(videos_dir):
+#                logger.info('All files:{}'.format(filename))
+#            for filename in os.listdir(videos_dir):
+#                suffix = filename.split('.')[1]
+#                if suffix != 'mp4' and suffix != 'avi':  # you can specify more video formats if you need
+#                    continue
+#                video_name = os.path.join(videos_dir, filename)
+#                directoryname = os.path.join(output_path, filename.split('.')[0])
+            
+#                logger.info('Video_name:{}'.format(video_name))
+            directoryname=output_path
+            cam = cv2.VideoCapture(0) #video_name --> 0 indicating feed from camera
                 
-                c = 0
-                while True:
+            c = 0
+            while True:
                     final_faces = []
                     addtional_attribute_list = []
                     ret, frame = cam.read()
@@ -162,7 +164,7 @@ def main():
                     c += 1
 
                     for d in trackers:
-                        print("D values:",d)
+                       # print("D values:",d)
                         if not no_display:
                             d = d.astype(np.int32)
                             cv2.rectangle(frame, (d[0], d[1]), (d[2], d[3]), colours[d[4] % 32, :] * 255, 3)
@@ -195,12 +197,11 @@ def main():
 #    
     
    
-    OPENCV_VIDEOIO_PRIORITY_MSMF = 0
     cam.release()
     cv2.destroyAllWindows()
 # modify the default parameters of np.load
     np.load.__defaults__=(None, False, True, 'ASCII')
-    print("numpy protected")
+    #print("numpy protected")
 def parse_args():
     """Parse input arguments."""
     parser = argparse.ArgumentParser()
@@ -234,3 +235,4 @@ def parse_args():
 
 if __name__ == '__main__':
     main()
+
